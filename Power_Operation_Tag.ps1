@@ -1,6 +1,6 @@
 <#
 Purpose - To stop/start AWS EC2 instances using tag values
-Developer - K.Janaarthanan
+Developer - K.Janarthanan
 Date - 24/02/2020
 
 Pre-Requests
